@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/?" target="blank"><img src="https://img.shields.io/twitter/follow/??logo=twitter&style=for-the-badge" alt="KashDaYash" /></a> </p>
 
-- 🔭 I’m currently working on [Telegram Bots](https://github.com/YaaraRobot)
+- 🔭 I’m currently working on [Telegram Bots](https://t.me/YaaraRobot)
 
 - 🌱 I’m currently learning **Python**
 
