@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/?" target="blank"><img src="https://img.shields.io/twitter/follow/??logo=twitter&style=for-the-badge" alt="KashDaYash" /></a> </p>
 
-- 🔭 I’m currently working on [Telegram Bots](https://github.com/KashDaYash)
+- 🔭 I’m currently working on [Telegram Bots](https://github.com/YaaraRobot)
 
 - 🌱 I’m currently learning **Python**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Anonymous](Anonymous)
 
-- ⚡ Fun fact **I'm Psycho 😂**
+- ⚡ Fun fact **Hurt me if u have stamina 🥵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
