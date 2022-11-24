@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Anonymous](Anonymous)
 
-- ⚡ Fun fact **Hurt me if u have stamina 🥵**
+- ⚡ Fun fact **if u hurt me i will 🥵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
